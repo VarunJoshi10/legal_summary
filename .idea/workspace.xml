@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f926fc03-f8b1-4a92-9b2c-e0166e71c78d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../privacyx/roberta.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseSummarization/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caseSummarization/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseSummarization/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caseSummarization/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../caseSummarization/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../caseSummarization/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../privacyx/sentence_classifier_transformer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../privacyx/sentence_classifier_transformer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legal_web/legal_web/legal/templates/legal/readme.html" beforeDir="false" afterPath="$PROJECT_DIR$/legal_web/legal_web/legal/templates/legal/readme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legal_web/legal_web/legal/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/legal_web/legal_web/legal/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>staticfiles</find>
+      <find>root</find>
+      <find>responseview</find>
+      <find>dump</find>
+      <find>categories</find>
+      <find>informa</find>
+      <find>bing</find>
+      <find>apiKe</find>
+      <find>ffd025</find>
+      <find>ffdo</find>
+      <find>css</find>
+      <find>f05f40</find>
+      <find>js</find>
+      <find>callapi</find>
+      <find>impwords</find>
+      <find>call</find>
+      <find>tts</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="2195" />
+    <option name="height" value="2195" />
+  </component>
+  <component name="ProjectId" id="1brO6sTjxXnsWmiJMxZYF6ZGM87" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pooja\PycharmProjects\legal\legal_web\legal_web\legal" />
+      <recent name="C:\Users\Pooja\PycharmProjects\legal\legal_web\legal_web" />
+      <recent name="C:\Users\Pooja\PycharmProjects\legal\legal_web" />
+      <recent name="C:\Users\Pooja\PycharmProjects\legal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pooja\PycharmProjects\legal\legal_web\legal_web\legal\static\legal" />
+      <recent name="C:\Users\Pooja\PycharmProjects\legal" />
+      <recent name="C:\Users\Pooja\PycharmProjects\legal\legal_web" />
+      <recent name="C:\Users\Pooja\PycharmProjects\legal\legal_web\legal" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+</project>
