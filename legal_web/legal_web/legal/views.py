@@ -1,26 +1,21 @@
-from django.shortcuts import render
 from django.http import HttpResponse
-from django.http import Http404
-from django.template import loader
-import urllib.request as urllib2
 import json
-import sys
 import math
-#import settings
-from django.conf import settings
-import nltk.data
+import operator
 import os
+import re
+import urllib.request as urllib2
+
+import nltk.data
+# import settings
+from django.conf import settings
+from django.http import Http404
+from django.http import HttpResponse
+from django.template import loader
+from gensim.summarization import summarize
+from nltk import pos_tag, ne_chunk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-import math
-import numpy as np
-from nltk import word_tokenize, pos_tag, ne_chunk
-from nltk.tree import Tree
-from nltk.compat import python_2_unicode_compatible
-import re
-import operator
-from gensim.summarization import summarize
-import re
 try:
     from django.contrib.staticfiles.templatetags.staticfiles import static
 except ImportError:
